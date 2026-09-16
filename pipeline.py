@@ -1,1 +1,1 @@
-print("Laddar data från fil ...")
+print( hej ,pelin)
