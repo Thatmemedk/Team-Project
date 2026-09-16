@@ -1,10 +1,1 @@
-Hejhej eweqweqeqwe
-
-ge
-fqwe
-rw
-erw
-g
-w
-gwe
-ge
+Hello, this is the start of the project
